@@ -32,11 +32,11 @@ This project involves building a machine learning model to predict the selling p
 - The dataset used in this project is sourced from [source link], and credit goes to the data provider.
 
 ### Author
-- SHREY GOYAL
-- shreygoyal73@gmail.com
+- Omkar Rasal
+- omrasal2993@gmail.com
 
 ### Contact
-- For any inquiries or issues regarding this project, please contact shreygoyal73@gmail.com.
+- For any inquiries or issues regarding this project, please contact omrasal2993@gmail.com.
 
 ### Support
-- For additional support or custom implementations, please contact shreygoyal73@gmail.com.
+- For additional support or custom implementations, please contact omrasal2993@gmail.com.
